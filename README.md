@@ -16,3 +16,9 @@ If you found a new "Murinsky" word or rule in TikTok, feel free to open a Pull R
 
 ## Disclaimer
 This project is for entertainment purposes only. It is a parody of internet subcultures and meme trends.
+
+### Instalation
+Copy repositorie
+```bash
+git clone [https://github.com/Za1Z0n3/murino-patois-Translator.git](https://github.com/Za1Z0n3/murino-patois-Translator.git)
+cd murinsky-translator
