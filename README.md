@@ -17,8 +17,16 @@ If you found a new "Murinsky" word or rule in TikTok, feel free to open a Pull R
 ## Disclaimer
 This project is for entertainment purposes only. It is a parody of internet subcultures and meme trends.
 
+### Example of using
+```python
+from translator import MurinskyTranslator
+
+mt = MurinskyTranslator()
+print(mt.process_text("Мой друг зашел в магазин и купил пиво"))
+# Output: Мой друн зашел в магазун и купил пивность
+```
 ### Instalation
 Copy repositorie
 ```bash
-git clone [https://github.com/Za1Z0n3/murino-patois-Translator.git](https://github.com/Za1Z0n3/murino-patois-Translator.git)
+git clone [https://github.com/Za1Z0n3/Murino-patois-Translator.git](https://github.com/Za1Z0n3/Murino-patois-Translator.git)
 cd murinsky-translator
